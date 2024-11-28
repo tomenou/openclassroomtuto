@@ -1,5 +1,5 @@
-msg = "Roll a dice!"
+msg = "roll a dice!"
 print(msg)
-msg.capitalize()
-msg.split()
+print(msg.capitalize())
+print(msg.split())
 
